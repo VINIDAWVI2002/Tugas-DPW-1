@@ -71,7 +71,7 @@ echo "<hr>";
 
 $Coco = new Elang;
 $Coco->jumlah_kaki = 2;
-echo "Loki Adalah Elang <br>";
+echo "Coco Adalah Elang <br>";
 echo "Punya Kaki Sebanyak: " .$Coco->jumlah_kaki."<br>";
 echo "Bisa Terbang: " .$Coco->bisa_terbang()."<br>";
 echo "Bersuara: " .$Coco->bersuara()."<br>";
